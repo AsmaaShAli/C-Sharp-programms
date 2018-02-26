@@ -1,4 +1,4 @@
-# C-Sharp-programms
+#XO-game-with-C-Sharp
 
 This source code is for a the XO game ,
 the game is written in c# language and it runs on a console application ,
